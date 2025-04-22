@@ -1,0 +1,13 @@
+name = "Legacy4J"
+filename = "Legacy4J-1.21.5-1.8.0.2517.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gHvKJofA/versions/grV4RzBM/Legacy4J-1.21.5-1.8.0.2517.1-fabric.jar"
+hash-format = "sha512"
+hash = "5d35fba2559433467026862aa1187a2d2989995e3abd4c220d6929be749bfe75c1f4d4d36550b1c5991dd25ecfbc5ca66af3edb998924035ceb91a9f3cac4431"
+
+[update]
+[update.modrinth]
+mod-id = "gHvKJofA"
+version = "grV4RzBM"
