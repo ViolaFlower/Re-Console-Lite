@@ -78,4 +78,6 @@ Re-Console Lite is usually one of the first modpacks to update in a stable state
 
 Thats fine! Consider checking out;
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by omo50 and Violaflower
+- [Lite Legacy](https://modrinth.com/modpack/lite-legacy) by jacksthegreat
+- [Project4J](https://modrinth.com/modpack/project-4j) by cixon
 - [Console-idated](https://modrinth.com/modpack/console-idated) by S_N00B (Has LEM compatibility)
