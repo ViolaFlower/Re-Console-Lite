@@ -1,7 +1,7 @@
 # Re-Console Lite
-Re-Console Lite is a streamlined version of Re-Console designed for people who want a more barebones experience, and being build for low end computers
+Re-Console Lite is a streamlined version of Re-Console designed for people who want a more barebones experience, and being built for low end computers
 
-[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/legacy-minecraft) [<img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://legacy.curseforge.com/minecraft/modpacks/re-console)
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/legacy-minecraft) 
 [<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Legacy-Union/Re-Console/releases) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/) [<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg">](https://modrinth.com/modpack/adrenaline) [<img alt="patreon-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg">](https://www.patreon.com/ViolaFlower)
 
 ![image](https://github.com/user-attachments/assets/649da799-9091-4ac4-b414-ed6e2c2b94be)
@@ -48,7 +48,6 @@ Consider joining the [ViolaFlower Discord](https://discord.com/invite/dsBrDdJysn
 - Get the latest updates about development
 - Talk with and collaborate with our team
 - And just hang out with the rest of our community!
-
 # 🍉 Sponsor
 Are you looking to enjoy Re-Console Lite with your friends? Feel free to use my code ``raamviot50`` for 25% off your first month of any server from BisectHosting, supporting me in the process. You can also use the special [Serverside Software](https://modrinth.com/modpack/re-console-server-software) of Re-Console to improve performance.
 
