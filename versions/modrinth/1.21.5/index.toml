@@ -74,12 +74,12 @@ hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bf7d8ee28040e52786fd53a84a9c7ffd01f53d2ebeafb0468def38198ba1738c"
+hash = "acd54752b9c03223637a654249fcddd06a0a82e9c5057779ae6b8bf9213a8a5b"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/legacy4j.pw.toml"
-hash = "93f291175628e71229c829376501bbec7a7835897116fda2408b254a966a73aa"
+hash = "d1c6fb3ff44ec99260611c3379a2332097d0d05fa12ad6000691fa3c52e99a3c"
 metafile = true
 
 [[files]]
